@@ -4,3 +4,7 @@ body{
     color: white;
     background-color: #25294a;
 }
+
+#mainHeader{
+    text-align: center;
+}
