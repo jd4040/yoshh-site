@@ -5,6 +5,18 @@ body{
     background-color: #25294a;
 }
 
+.main{
+    color: blue;
+}
+
+.stuff{
+    color:white;
+}
+
+.button{
+    border-radius: 10px;
+}
+
 #yoshh{
     text-align: center;
 }
