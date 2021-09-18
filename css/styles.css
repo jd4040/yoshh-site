@@ -8,3 +8,7 @@ body{
 #yoshh{
     text-align: center;
 }
+
+.stuff, #yoshh, .other{
+    text-align: center;
+}
