@@ -17,6 +17,11 @@ body{
     text-decoration: none;
 }
 
+/* Adds padding to buttons */
+.button_padding{
+    padding: 0.5rem 0rem;
+}
+
 .button:hover{
     opacity: 0.6;
     color:black;
