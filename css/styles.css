@@ -3,9 +3,31 @@
 body{
     font-family: 'Poppins', sans-serif;
     color: white;
-    background-color: #303030; /* #25294a navy genshin blue */
+    background-color: #303030; /* #25294a navy genshin blue */ 
+}
+
+.main-header{
+    text-align: right;
+}
+
+.top-banner{
+    background-color: #505050;
+    border-radius: 0.2em;
+    box-shadow: 0 0.05em 0.25em 0 black;
+    padding: 0.5rem 1.5rem;
+    text-decoration: none;
+}
+
+.top-links{
+    color:white;
+    text-align: left;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin: 1rem 1rem;
+}
+
+.main-body{
     text-align: center;
-    
 }
 
 .button{
