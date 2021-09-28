@@ -15,7 +15,6 @@ body{
     text-decoration: none;
     border-style:solid;
     border-width: 0.15em;
-    background-image: url(/static/img/klee_smug.jpg);
 }
 
 
@@ -61,4 +60,8 @@ body{
 
 div.subheader{
     padding: 0 0 1em 0;
+}
+
+.sayu-01:hover{
+    display: none;
 }
