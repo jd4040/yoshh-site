@@ -36,9 +36,23 @@ let isGreater = 5>1;
 // Create modal window with the message. A modal window is a window that must be dealt with before you can interact with the site
 alert(`Hello, welcome to ${MY_SITE_NAME}!`)
 
-/* Asks the user to rate the site from 1-10, but takes in any value and returns it as a string */
+
+
+/* //Asks the user to rate the site from 1-10, but takes in any value and returns it as a string 
 let resultFirstPrompt = prompt(`Rate my site, ${MY_SITE_NAME}, from 1-10`, '');
 alert(`Wow, you gave it a ${resultFirstPrompt}!`);
+*/
 
-/* Asks the user for confirmation to enter the site, but the site loads regardless of actual confirmation */
+/* //Asks the user for confirmation to enter the site, but the site loads regardless of actual confirmation 
 let enterConfirmation = confirm(`Are you sure you want to enter ${MY_SITE_NAME}?`);
+*/
+
+/* //Turning a numerical string into a number 
+let strNumber01 = "100";
+let num01 = Number(strNumber01);
+alert(`100 / 2 = ` + num01/2); // "100 / 2 = 50"
+*/
+
+// An operand is the argument to the operator, such as 5 * 5. The 5s are the operand and the * is the operator
+// An operator is unary if it has a single operand. An operator is binary if it has two operands. 
+// -x is an unary negation operation. x - y is a binary minus operation
