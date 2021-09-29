@@ -56,3 +56,4 @@ alert(`100 / 2 = ` + num01/2); // "100 / 2 = 50"
 // An operand is the argument to the operator, such as 5 * 5. The 5s are the operand and the * is the operator
 // An operator is unary if it has a single operand. An operator is binary if it has two operands. 
 // -x is an unary negation operation. x - y is a binary minus operation
+// A shorthand version of Number() is to use the unary operator +. Such as +strNumber01. This unary operator converts any non-number to a number. 
