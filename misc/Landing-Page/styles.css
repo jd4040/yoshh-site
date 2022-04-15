@@ -21,9 +21,10 @@ body{
 .header{
     background-color: #1F2937;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 16px 200px 16px 200px;
+    padding: 16px 0;
+    gap: 32px;
 }
 
 .header-logo{
@@ -31,7 +32,7 @@ body{
     font-weight: 800;
     color: #F9FAF8;
     white-space: nowrap;
-    padding-right: 425px;
+    
 }
 .header-links{
     white-space: nowrap;
@@ -43,9 +44,10 @@ body{
 .hero-content-container{
     background-color: #1F2937;
     display: flex;
-    justify-content:space-between;
+    justify-content:space-around;
+    align-items: center;
     gap: 32px;
-    padding: 100px 200px 100px 200px;
+    padding: 100px 0;
 }
 
 .hero-content{
@@ -77,7 +79,9 @@ body{
     color: #1F2937;
     font-size: 32px;
     font-weight: 800;
-    padding: 40px 100px 40px 100px;
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
     white-space: nowrap;
 }
 
@@ -85,7 +89,8 @@ body{
     display: flex;
     flex-wrap: wrap;
     gap: 70px;
-    padding: 10px 000px 100px 100px;
+    padding: 75px 0 ;
+    align-items: center;
 }
 
 .showcase-one, .showcase-two, .showcase-three, .showcase-four{
